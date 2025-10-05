@@ -9,16 +9,6 @@
 </head>
 <body>
 
- <header>
-    <h1>My Portfolio</h1>
-  </header>
-
-  <nav>
-    <a href="#about">About</a>
-    <a href="#projects">Projects</a>
-    <a href="#contact">Contact</a>
-  </nav>
-
   <!-- Hero Section -->
   <section id="home" class="hero">
     <div class="content">
