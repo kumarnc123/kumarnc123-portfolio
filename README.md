@@ -4,13 +4,12 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>My Portfolio</title>
-  <link rel="stylesheet" href="style.css" />
+  <link rel="stylesheet" href="index.css" />
 </head>
 <body>
   <header>
     <h1>Hi, I'm Kumar</h1>
-    <p>Aspiring Developer | Tech Enthusiast | Innovator</p>
+    <p>Aspiring Developer | Tech Enthusiast | </p>
   </header>
 
   <nav>
