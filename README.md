@@ -28,28 +28,27 @@
 
   <section id="projects">
     <h2>Projects</h2>
+    
+    <div class="miniproject">
+      <h3>Fruit Quality Detection</h3>
+      <p>
+        A system that detects nutrients and provides the beneficial qualities of a fruit .
+      </p>
+      <a href="https://github.com/kumarnc123-portfolio/fruit-quality-detection" target="_blank">View on GitHub</a>
+    </div>
 
     <div class="project">
       <h3>Smart Road Hazard Detection</h3>
       <p>
         A system that detects potholes and road hazards using sensors and Raspberry Pi.
       </p>
-      <a href="https://github.com/yourusername/road-hazard-detection" target="_blank">View on GitHub</a>
+      <a href="https://github.com/kumarnc123-portfolio/road-hazard-detection" target="_blank">View on GitHub</a>
     </div>
-
-    <div class="project">
-      <h3>Weather App</h3>
-      <p>
-        A simple weather app using OpenWeather API to show current weather and forecasts.
-      </p>
-      <a href="https://github.com/yourusername/weather-app" target="_blank">View on GitHub</a>
-    </div>
-  </section>
-
+    
   <section id="contact">
     <h2>Contact</h2>
     <p>Email: <a href="mailto:knc21173@example.com">knc21173@gmail.com</a></p>
-    <p>GitHub: <a href="https://github.com/yourusername" target="_blank">@kumarnc123</a></p>
+    <p>GitHub: <a href="https://github.com/yourusername" target="_blank">@kumarnc123-portfolio</a></p>
   </section>
 
   <footer>
