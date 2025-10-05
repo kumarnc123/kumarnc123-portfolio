@@ -9,18 +9,16 @@
 </head>
 <body>
 
-  <!-- Header Section -->
-  <header>
-    <nav>
-      <h2 class="logo">MyPortfolio<span>.</span></h2>
-      <ol>
-        <li><a href="#home">Home</a></li>
-        <li><a href="#about">About</a></li>
-        <li><a href="#projects">Projects</a></li>
-        <li><a href="#contact">Contact</a></li>
-      </ol>
-    </nav>
+ <header>
+    <h1>Hi, I'm Kumar</h1>
+    <p>Aspiring Developer | Tech Enthusiast | Innovator</p>
   </header>
+
+  <nav>
+    <a href="#about">About</a>
+    <a href="#projects">Projects</a>
+    <a href="#contact">Contact</a>
+  </nav>
 
   <!-- Hero Section -->
   <section id="home" class="hero">
