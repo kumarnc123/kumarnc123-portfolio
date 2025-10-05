@@ -49,7 +49,7 @@
 
   <section id="contact">
     <h2>Contact</h2>
-    <p>Email: <a href="mailto:youremail@example.com">youremail@example.com</a></p>
+    <p>Email: <a href="mailto:knc21173@example.com">youremail@example.com</a></p>
     <p>GitHub: <a href="https://github.com/yourusername" target="_blank">@yourusername</a></p>
   </section>
 
