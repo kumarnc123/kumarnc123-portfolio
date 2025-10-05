@@ -10,8 +10,7 @@
 <body>
 
  <header>
-    <h1>Hi, I'm Kumar</h1>
-    <p>Aspiring Developer | Tech Enthusiast | Innovator</p>
+    <h1>My Portfolio</h1>
   </header>
 
   <nav>
