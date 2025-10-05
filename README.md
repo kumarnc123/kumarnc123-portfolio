@@ -4,8 +4,8 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>My Cool Portfolio</title>
-  <link rel="stylesheet" href="style.css">
+  <title>kumarnc123-portfolio</title>
+  <link rel="stylesheet" href="index.css">
   <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;700&display=swap" rel="stylesheet">
 </head>
 <body>
@@ -60,8 +60,8 @@
         <p>IoT-based road hazard detection system using Raspberry Pi and sensors.</p>
       </div>
       <div class="card">
-        <h3>Weather App</h3>
-        <p>A web app that displays real-time weather updates using an open API.</p>
+        <h3>Fruit quality detection</h3>
+        <p>A detecting the quality of the fruits by its nutrients information.</p>
       </div>
     </div>
   </section>
@@ -70,10 +70,8 @@
   <section id="contact" class="contact">
     <h2>Contact Me</h2>
     <form>
-      <input type="text" placeholder="Your Name" required>
-      <input type="email" placeholder="Your Email" required>
-      <textarea placeholder="Your Message" rows="4" required></textarea>
-      <button type="submit" class="btn">Send Message</button>
+      <input type="text" placeholder="Kumar N C" required>
+      <input type="email" placeholder="knc21173@gmail.com" required>
     </form>
   </section>
 
