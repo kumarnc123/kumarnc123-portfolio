@@ -9,7 +9,6 @@
 </head>
 <body>
 
-  <!-- Hero Section -->
   <section id="home" class="hero">
     <div class="content">
       <h1>Hi, I'm <span>Kumar</span></h1>
@@ -18,7 +17,6 @@
     </div>
   </section>
 
-  <!-- About Section -->
   <section id="about" class="about">
     <h2>About Me</h2>
     <div class="about-container">
@@ -32,7 +30,6 @@
     </div>
   </section>
 
-  <!-- Projects Section -->
   <section id="projects" class="projects">
     <h2>My Projects</h2>
     <div class="project-grid">
@@ -47,7 +44,6 @@
     </div>
   </section>
 
-  <!-- Contact Section -->
   <section id="contact" class="contact">
     <h2>Contact Me</h2>
     <form>
@@ -56,7 +52,6 @@
     </form>
   </section>
 
-  <!-- Footer -->
   <footer>
     <p>© 2025 Kumar | All Rights Reserved</p>
   </footer>
