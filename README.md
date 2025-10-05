@@ -52,10 +52,6 @@
     <h2>My Projects</h2>
     <div class="project-grid">
       <div class="card">
-        <h3>Portfolio Website</h3>
-        <p>A responsive personal portfolio to showcase my skills and projects.</p>
-      </div>
-      <div class="card">
         <h3>Smart Hazard Detection</h3>
         <p>IoT-based road hazard detection system using Raspberry Pi and sensors.</p>
       </div>
