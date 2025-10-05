@@ -1,5 +1,5 @@
 # kumarnc123-portfolio
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -54,5 +54,4 @@
   <footer>
     <p>© 2025 Kumar | Built with ❤️ using HTML & CSS</p>
   </footer>
-</body>
-</html>
+
