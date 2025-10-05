@@ -1,4 +1,3 @@
-/* Import Google Font */
 body {
   margin: 0;
   font-family: 'Poppins', sans-serif;
@@ -7,7 +6,6 @@ body {
   scroll-behavior: smooth;
 }
 
-/* Navbar */
 header {
   position: fixed;
   width: 100%;
@@ -51,7 +49,6 @@ nav a:hover {
   color: #00d4ff;
 }
 
-/* Hero Section */
 .hero {
   height: 100vh;
   background: linear-gradient(120deg, #0f2027, #203a43, #2c5364);
@@ -115,7 +112,6 @@ nav a:hover {
   text-align: left;
 }
 
-/* Projects Section */
 .projects {
   background: #1c1c1c;
   padding: 100px 10%;
@@ -170,7 +166,6 @@ button {
   cursor: pointer;
 }
 
-/* Footer */
 footer {
   background: #0f2027;
   text-align: center;
@@ -178,3 +173,4 @@ footer {
   font-size: 0.9rem;
   color: #aaa;
 }
+
