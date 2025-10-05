@@ -1,6 +1,5 @@
 # kumarnc123-portfolio
-<!DOCTYPE html>
-<html lang="en">
+
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -14,12 +13,12 @@
   <header>
     <nav>
       <h2 class="logo">MyPortfolio<span>.</span></h2>
-      <ul>
+      <ol>
         <li><a href="#home">Home</a></li>
         <li><a href="#about">About</a></li>
         <li><a href="#projects">Projects</a></li>
         <li><a href="#contact">Contact</a></li>
-      </ul>
+      </ol>
     </nav>
   </header>
 
@@ -36,7 +35,6 @@
   <section id="about" class="about">
     <h2>About Me</h2>
     <div class="about-container">
-      <img src="https://i.ibb.co/2M5B0k1/profile.png" alt="Profile Picture">
       <div class="text">
         <p>
           I'm a creative developer who loves bringing ideas to life with clean, modern web design. 
